@@ -36,7 +36,7 @@ Aplikasi berbasis microservices Django e-commerce platform dengan layanan:
       python manage.py migrate
       ```
 
-3. Ensure that you have MySQL databases set up:
+3. Pastikan MySQL databases set up:
     - `cart_db`
     - `order_db`
     - `coupons_db`
